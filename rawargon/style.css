@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 99vh;
+  background-color: #000;
+  font-size: 8px;
+  color: #373737;
+  overflow-y: hidden;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: #555766;
+}
+
+a:hover {
+  color: #a088d0;
+}
+
+pre {
+  display: inline-block;
+  background-color: #000;
+  margin-bottom: -8px;
+}
+
+#firstPre {
+  margin-top: -8px;
+}
+
+.links {
+  font-size: 10px;
+}

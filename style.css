@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 99vh;
+  background-color: #b5b0a2;
+  font-size: 14px;
+  color: #373737;
+  overflow-y: hidden;
+  flex-direction: column;
+}
+
+pre {
+  display: inline-block;
+  margin-bottom: -8px;
+}
+
+#lehtoarho {
+  width: 350px;
+}
