@@ -16,6 +16,14 @@ pre {
   margin-bottom: -8px;
 }
 
-#lehtoarho {
+#flowerImage {
   width: 350px;
+}
+
+@media screen and (max-width: 1080px) {
+
+  #flowerImage {
+    width: 240px;
+  }
+  
 }
